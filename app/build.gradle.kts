@@ -66,4 +66,10 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
+
+    //Icon
+    implementation("androidx.compose.material:material-icons-extended:1.6.4")
+
+    //Gson
+    implementation("com.google.code.gson:gson:2.10.1")
 }
